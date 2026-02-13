@@ -289,10 +289,10 @@
     Fluid.utils.loadComments('#comments', function() {
       Fluid.utils.createScript('https://cdn.jsdelivr.net/npm/twikoo@1.6.44/dist/twikoo.min.js', function() {
         var options = Object.assign(
-          {"envId":"mongodb+srv://Languore:2sj4hdAk8VELiKi@blog.koa6sl0.mongodb.net/?appName=blog"},
+          {"envId":"mongodb+srv://Languore:2sj4hdAk8VELiKi@blog.koa6sl0.mongodb.net/?appName=blog","region":"ap-shanghai","path":"window.location.pathname"},
           {
             el: '#twikoo',
-            path: '',
+            path: 'window.location.pathname',
             onCommentLoaded: function() {
               Fluid.utils.listenDOMLoaded(function() {
                 var imgSelector = '#twikoo .tk-content img:not(.tk-owo-emotion)';
