@@ -1,6 +1,6 @@
-https://languore.github.io/Languore/2026/02/14/test/
-https://languore.github.io/Languore/about/index.html
-https://languore.github.io/Languore/2026/02/12/hello-world/
-https://languore.github.io/Languore
-https://languore.github.io/Languore/tags/test/
-https://languore.github.io/Languore/categories/test/
+https://languore.github.io/2026/02/14/test/
+https://languore.github.io/about/index.html
+https://languore.github.io/2026/02/12/hello-world/
+https://languore.github.io/
+https://languore.github.io/tags/test/
+https://languore.github.io/categories/test/
