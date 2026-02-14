@@ -4,13 +4,19 @@
   
   
   <entry>
-    <title>测试文章</title>
-    <link href="/2026/02/12/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <url>/2026/02/12/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    <title>test</title>
+    <link href="/2026/02/14/test/"/>
+    <url>/2026/02/14/test/</url>
     
-    <content type="html"><![CDATA[<p><img src="/2026/02/12/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.png" alt="test"></p>]]></content>
+    <content type="html"><![CDATA[<p>show picture~</p><p><img src="/2026/02/14/test/test.png" alt="test"></p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
     
   </entry>
   
