@@ -8,8 +8,14 @@
     <link href="/2026/02/14/test/"/>
     <url>/2026/02/14/test/</url>
     
-    <content type="html"><![CDATA[<p>show picture~</p><p><img src="/2026/02/14/test/test.png" alt="test"></p>]]></content>
+    <content type="html"><![CDATA[<h2>show picture~</h2><p><img src="/2026/02/14/test/test.png" alt="test"></p>]]></content>
     
+    
+    <categories>
+      
+      <category>test</category>
+      
+    </categories>
     
     
     <tags>
